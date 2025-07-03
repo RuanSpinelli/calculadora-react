@@ -1,36 +1,39 @@
-# calculadora-react
+# 🔢 Calculadora React
 
-🧮 Calculadora em React
-Este é um projeto simples de calculadora, desenvolvido com ReactJS como parte do meu processo de aprendizado sobre o framework. O objetivo foi colocar em prática os conceitos básicos de componentização, estados (useState), eventos e estrutura de interface com JSX.
+Calculadora simples desenvolvida com React, como prática de componentização, gerenciamento de estado e eventos.
 
-🚀 Funcionalidades
-Adição (+)
+---
 
-Subtração (-)
+## 🚀 Funcionalidades
 
-Multiplicação (x)
+- Operações básicas: adição, subtração, multiplicação e divisão
+- Botão de limpar (`C`)
+- Exibição do resultado no display
+- Interface organizada em display e teclado
 
-Divisão (/)
+---
 
-Limpar (C)
+## 🧠 Aprendizados
 
-Resultado (=)
+- Criação de componentes reutilizáveis
+- Manipulação de estado com `useState`
+- Implementação de lógica matemática dentro de componentes
+- Organização de layout com JSX e CSS
 
-🧠 O que aprendi com esse projeto
-Criar e reutilizar componentes funcionais
+---
 
-Trabalhar com estados locais usando useState
+## 🛠️ Tecnologias
 
-Implementar funções de lógica dentro do componente
+- ReactJS (Create React App)
+- JavaScript ES6+
+- CSS3
 
-Criar uma interface organizada com JSX e styled-components
+---
 
-Pensar em fluxo de operação (ex: armazenar número antes da operação, executar apenas no =)
+## 📦 Como executar localmente
 
-📦 Tecnologias utilizadas
-ReactJS
-
-Create React App 
-
-styled-components para estilização dos elementos
-
+```bash
+git clone https://github.com/RuanSpinelli/calculadora-react.git
+cd calculadora-react
+npm install
+npm start
