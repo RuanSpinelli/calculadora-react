@@ -3,6 +3,8 @@
 Calculadora simples desenvolvida com React, como prática de componentização, gerenciamento de estado e eventos.
 
 ---
+![image](https://github.com/user-attachments/assets/f1ecf155-a98e-44fa-a363-579adb8bab73)
+
 
 ## 🚀 Funcionalidades
 
